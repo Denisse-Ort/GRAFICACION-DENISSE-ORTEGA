@@ -5,7 +5,7 @@ Este repositorio contiene una investigación exhaustiva sobre los cimientos de l
 
 ---
 
-##  Índice Detallado
+##  Índice 
 1. [1.1 Historia y Evolución Detallada](#11-historia-y-evolución-detallada)
 2. [1.2 Áreas de Aplicación Modernas](#12-áreas-de-aplicación-modernas)
 3. [1.3 Fundamentos Matemáticos y Geométricos](#13-fundamentos-matemáticos-y-geométricos)
@@ -60,8 +60,8 @@ Un objeto pasa por varias etapas antes de verse en pantalla:
 ### Matrices de Transformación
 Se utilizan matrices de $4 \times 4$ para manejar coordenadas homogéneas, permitiendo combinar traslación, rotación y escala en una sola operación:
 
-$$T = \begin{bmatrix} 1 & 0 & 0 & t_x \\ 0 & 1 & 0 & t_y \\ 0 & 0 & 1 & t_z \\ 0 & 0 & 0 & 1 \end{bmatrix}$$
-*Matriz de Traslación en 3D.*
+<img width="297" height="166" alt="image" src="https://github.com/user-attachments/assets/50d6995c-b757-4410-9f7d-04aab6df0523" />
+
 
 ---
 
