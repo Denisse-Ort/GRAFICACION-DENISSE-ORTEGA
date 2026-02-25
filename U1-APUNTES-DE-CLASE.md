@@ -1,4 +1,4 @@
-#  Graficación por Computadora: Repositorio de Apuntes Extendido
+#  Graficación: Repositorio de Apuntes
 ## **Unidad I: Introducción a la Graficación**
 
 Este repositorio contiene una investigación exhaustiva sobre los cimientos de la computación gráfica, abarcando desde la evolución histórica hasta los algoritmos de bajo nivel para el procesamiento de imágenes.
