@@ -77,7 +77,8 @@ El color en computación se define mediante modelos matemáticos que representan
 
 
 
-[Image of RGB vs CMYK color models]
+<img width="850" height="452" alt="image" src="https://github.com/user-attachments/assets/dd0de26e-ffbe-4e42-b316-50b465bff9fc" />
+
 
 
 ###  Tutorial: Iluminación de Caras en Blender
@@ -137,7 +138,7 @@ Un mapa de bits (Raster) es una matriz bidimensional de píxeles $f(x, y)$.
 
 ---
 
-## Bibliografía (APA)
+## Bibliografía 
 
 * Hearn, D., & Baker, M. P. (2006). *Gráficos por computadora con OpenGL*. Pearson Educación.
 * Hughes, J. F., Van Dam, A., McGuire, M., Sklar, D. F., Foley, J. D., Feiner, S. K., & Akeley, K. (2014). *Computer Graphics: Principles and Practice*. Addison-Wesley Professional.
