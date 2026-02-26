@@ -3,8 +3,6 @@
 
 Este repositorio documenta el proceso de investigación, diseño y ejecución del Proyecto Integrador de la Unidad I. El enfoque central es la transición de geometrías euclidianas simples hacia entornos procedurales complejos con animación de cámara.
 
-
-
 ##  1. INICIO: Marco Conceptual y Propósito
 
 ### 1.1 Introducción a la Generación Procedural
@@ -55,9 +53,6 @@ La cámara se configuró para actuar como un observador dentro del mundo.
 * **Ángulo Contrapicado:** Al situar la cámara cerca del suelo, se exagera la altura de las paredes, una técnica común en cinematografía para dar importancia al entorno.
 * **Keyframing Procedural:** Se establecieron puntos clave de animación para que la cámara siga la curva del pasillo, manteniendo el foco en el centro de la escena.
 <img width="595" height="242" alt="image" src="https://github.com/user-attachments/assets/bb2f85d8-6bec-4700-a53d-932622135e30" />
-
-
-
 
 ##  3. CONCLUSIÓN
 
